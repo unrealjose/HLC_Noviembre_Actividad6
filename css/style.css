@@ -106,28 +106,3 @@ nav a:hover {
     display: block;
     }
 }
-
-/*
-@media (orientation: landscape) {
-  header {
-    display: block;
-    align-items: center;
-  }
-
-  section {
-    display: inline;
-  }
-
-  nav {
-    margin-left: 20px;
-  }
-
-  article {
-    columns: 100px 2;
-  }
-
-  .product-card {
-    columns: 100px 5;
-  }
-}
-*/
